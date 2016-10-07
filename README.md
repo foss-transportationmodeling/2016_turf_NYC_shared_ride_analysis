@@ -10,4 +10,6 @@ And 3) The scripts used to refine the original datasets into those found in the 
 
 # Quick Use Insturctions
 
-For users interested in the just analysis that has already been completed, the Jupyter Notebook file provides static visualizations and  commentary to garner quick insight into the presence of shared modes in NYC. This can be accessed directly through the repository by opening the file and does not require a download.
+For users interested in just the analysis that has already been completed, the Jupyter Notebook file provides static visualizations and  commentary to garner quick insight into the presence of shared modes in NYC. This can be accessed directly through the repository by opening the file and does not require a download.
+
+# Further Exploration
